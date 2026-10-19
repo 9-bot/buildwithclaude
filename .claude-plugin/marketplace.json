@@ -3859,6 +3859,34 @@
         "path": "plugins/common",
         "sha": "2315253cda64a76cb41ab0c6ed09d26291bda322"
       }
+    },
+    {
+      "name": "9bot",
+      "description": "Manage, automate and analyze WhatsApp groups, communities and channels with 9bot. Adds the hosted 9bot MCP server (https://mcp.9bot.com.br/mcp, Streamable HTTP, OAuth 2.1 sign-in in the browser) plus one Agent Skill, whatsapp-community-management. Needs a 9bot account (7-day free trial, then paid). No hooks, no commands, no settings changes.",
+      "version": "1.0.0",
+      "author": {
+        "name": "9bot",
+        "url": "https://9bot.com.br/en/"
+      },
+      "homepage": "https://9bot.com.br/en/",
+      "repository": "https://github.com/9-bot/mcp",
+      "license": "MIT",
+      "keywords": [
+        "whatsapp",
+        "communities",
+        "groups",
+        "channels",
+        "automation",
+        "moderation",
+        "analytics",
+        "mcp"
+      ],
+      "category": "mcp-servers",
+      "source": {
+        "source": "github",
+        "repo": "9-bot/mcp",
+        "sha": "8cf89a7c61e0c3d058858d38782d4777d27e2458"
+      }
     }
   ]
 }
